@@ -1,0 +1,4 @@
+agent: NA
+Details: Select distinct name and email, we combine the 3 tables members, waitlisted and borrowing 
+and apply the conditions on them members email is the same as waitlisted and b.book_id = w.book_id 
+and finaly b.member = m.email

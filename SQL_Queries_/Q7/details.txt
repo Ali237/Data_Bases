@@ -1,0 +1,4 @@
+agent: TA help using nested select 
+Details: Using two seelct  query one that return the books and how many times they 
+have been borrowed ranking them from the high to low and the outer select only takes the values
+or rank which are 3 or less. 

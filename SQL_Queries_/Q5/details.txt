@@ -1,0 +1,4 @@
+agent: SQLite website 
+Details: I have selected the need attributes and and used the AVG functioin to calclate 
+the needed rating and grouped by book_id applied a condition so only 2 or more reviews are acepted
+And then ordered the values in descenig order and and limited the output to only the highest averages.

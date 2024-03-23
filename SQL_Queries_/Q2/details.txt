@@ -1,0 +1,3 @@
+agent: N/A
+Details:left join the tables and then add the conditions for 
+faculty and accepted authers. At least one CS student and other studnets that have also borrowed the same book

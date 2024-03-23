@@ -1,0 +1,4 @@
+agent: https://www.sqlite.org/lang_datefunc.html Refrance 
+Details: joined borrowings table with waitlists but left join to include 
+and then added a conditoin for priority and used the time function julianday to account for the 
+time 14 day by taking the difference between end and start.
